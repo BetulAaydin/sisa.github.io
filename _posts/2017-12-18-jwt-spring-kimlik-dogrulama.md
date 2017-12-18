@@ -8,6 +8,12 @@ bigimg: https://spring.io/img/spring-by-pivotal-9066b55828deb3c10e27e609af322c40
 
 JWT Token Spring Boot Api üzerinde kimlik doğrulama
 
+[![Build Status](https://travis-ci.org/sisa/spring-security-with-jwt.svg?branch=master)](https://travis-ci.org/sisa)
+
+Uygulamanın source kodları:  https://github.com/sisa/spring-security-with-jwt 
+
+
+
 Spring Boot Securtiy için **WebSecurityConfigurerAdapter kullanıyoruz.**
 
 ~~~
@@ -89,8 +95,5 @@ public class WebSecurity extends WebSecurityConfigurerAdapter {
 	}
 }
 ~~~
-
-
-https://github.com/sisa/spring-security-with-jwt
 
 
