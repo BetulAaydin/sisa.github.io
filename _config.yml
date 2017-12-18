@@ -17,12 +17,13 @@ baseurl: ""
 title: İsa Öztürk
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: 
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
+  Home: ""
   About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
