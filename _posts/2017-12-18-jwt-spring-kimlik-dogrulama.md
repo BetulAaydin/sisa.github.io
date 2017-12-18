@@ -8,7 +8,7 @@ bigimg: https://spring.io/img/spring-by-pivotal-9066b55828deb3c10e27e609af322c40
 
 JWT Token Spring Boot Api üzerinde kimlik doğrulama
 
-Spring Boot Securtiy için ###WebSecurityConfigurerAdapter kullanıyoruz.
+Spring Boot Securtiy için **WebSecurityConfigurerAdapter kullanıyoruz.**
 
 ~~~
 package io.sisa.core.security.conf;
