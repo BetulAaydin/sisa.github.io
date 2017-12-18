@@ -1,5 +1,5 @@
 ---
 layout: page
 title:  Hakkımda
-subtitle: 
+subtitle: Genel Bilgiler
 ---
