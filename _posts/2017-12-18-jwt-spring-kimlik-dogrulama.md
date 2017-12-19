@@ -12,6 +12,11 @@ CI Status | Repo
 --------- | ----
 [![Build Status](https://travis-ci.org/sisa/spring-security-with-jwt.svg?branch=master)](https://travis-ci.org/sisa) | [![Repo](https://sisa.github.io//img/GitHub-Mark-32px.png)](https://github.com/sisa/spring-security-with-jwt)
 
+## Gereksinimler    
+
+   + Maven 3 
+   + JDK 1.8    
+
 Spring Boot Securtiy için **WebSecurityConfigurerAdapter kullanıyoruz.**
 
 ~~~
