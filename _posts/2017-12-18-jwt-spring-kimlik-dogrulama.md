@@ -2,7 +2,7 @@
 layout: post
 title: JWT Token Spring Boot Api üzerinde kimlik doğrulama!
 tags: [spring, jwt, security, rest, authentication, authorization, kimlik dogrulama]
-bigimg: /img/spring-security.jpg
+bigimg: 
 
 ---
 
