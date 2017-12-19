@@ -10,8 +10,7 @@ Microservices uygulama geliştirmede yaygın olarak kullanılan **JWT(JSON Web T
 
 CI Status | Repo 
 --------- | ----
-[![Build Status](https://travis-ci.org/sisa/spring-security-with-jwt.svg?branch=master)](https://travis-ci.org/sisa)
-[![Repo](https://sisa.github.io//img/GitHub-Mark-32px.png)](https://github.com/sisa/spring-security-with-jwt)|
+[![Build Status](https://travis-ci.org/sisa/spring-security-with-jwt.svg?branch=master)](https://travis-ci.org/sisa) | [![Repo](https://sisa.github.io//img/GitHub-Mark-32px.png)](https://github.com/sisa/spring-security-with-jwt)
 
 Spring Boot Securtiy için **WebSecurityConfigurerAdapter kullanıyoruz.**
 
