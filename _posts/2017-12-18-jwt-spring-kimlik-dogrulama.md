@@ -9,7 +9,12 @@ bigimg: https://spring.io/img/spring-by-pivotal-9066b55828deb3c10e27e609af322c40
 Microservices uygulama geliştirmede yaygın olarak kullanılan **JWT(JSON Web Token)** ile **Spring Boot** kullanarak yapmış olduğum kimlik doğrulama ve Rest servis yetkinlendirme örneğini anlatacağım.
 
 [![Build Status](https://travis-ci.org/sisa/spring-security-with-jwt.svg?branch=master)](https://travis-ci.org/sisa) 
-github repo: https://github.com/sisa/spring-security-with-jwt 
+ <span class="fa-stack fa-lg" aria-hidden="true">
+	<i class="fa fa-circle fa-stack-2x"></i>
+	<i class="fa fa-github fa-stack-1x fa-inverse"></i>
+</span>
+<span class="sr-only">GitHub</span>
+ https://github.com/sisa/spring-security-with-jwt
 
 
 Spring Boot Securtiy için **WebSecurityConfigurerAdapter kullanıyoruz.**
